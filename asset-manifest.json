@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://denno31.github.io/csb-h4l5fw/static/js/main.f0696dd8.chunk.js",
+    "main.js.map": "https://denno31.github.io/csb-h4l5fw/static/js/main.f0696dd8.chunk.js.map",
+    "runtime-main.js": "https://denno31.github.io/csb-h4l5fw/static/js/runtime-main.9f8f3471.js",
+    "runtime-main.js.map": "https://denno31.github.io/csb-h4l5fw/static/js/runtime-main.9f8f3471.js.map",
+    "static/js/2.5cb4c7f1.chunk.js": "https://denno31.github.io/csb-h4l5fw/static/js/2.5cb4c7f1.chunk.js",
+    "static/js/2.5cb4c7f1.chunk.js.map": "https://denno31.github.io/csb-h4l5fw/static/js/2.5cb4c7f1.chunk.js.map",
+    "index.html": "https://denno31.github.io/csb-h4l5fw/index.html",
+    "static/js/2.5cb4c7f1.chunk.js.LICENSE.txt": "https://denno31.github.io/csb-h4l5fw/static/js/2.5cb4c7f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f8f3471.js",
+    "static/js/2.5cb4c7f1.chunk.js",
+    "static/js/main.f0696dd8.chunk.js"
+  ]
+}
